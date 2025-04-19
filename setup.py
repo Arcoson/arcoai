@@ -3,7 +3,7 @@ from setuptools import setup, find_packages
 setup(
     name="arcoai",
     version="0.1.0",
-    author="Arcoson",
+    author="XCALEN",
     author_email="hylendust@gmail.com",
     description="A library for easy creation of ANN and CNN models with integrated visualization tools",
     long_description=open('README.md').read(),
