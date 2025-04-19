@@ -9,7 +9,7 @@ ArcoAI is a Python library that helps you easily build neural networks like ANNs
 You can either clone the repository using `git` or download it as a ZIP file.
 
 ```bash
-git clone https://github.com/Arcoson/arcoai.git
+git clone https://github.com/XCALEN/arcoai.git
 cd arcoai
 ```
 
